@@ -1,0 +1,7 @@
+varitegullu_aggitegulu.php
+varitegullu_endutegulu.php
+varitegullu_kullutegullu.php
+varitegullu_manipandutegullu.php
+varitegullu_podategullu.php
+varitegullu_pottitegullu.php
+varitegullu_tungrovirus.php

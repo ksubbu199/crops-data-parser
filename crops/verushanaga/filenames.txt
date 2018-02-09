@@ -1,0 +1,9 @@
+verushanaga_antharakusi.php
+verushanaga_antharapantalu.php
+verushanaga_eruvlu.php
+verushanaga_etharavishayalu.php
+verushanaga_nelalu.php
+verushanaga_nitiyajamanyam.php
+verushanaga_rakalu.php
+verushanaga_vithanam.php
+verushanaga_yantrikarna.php

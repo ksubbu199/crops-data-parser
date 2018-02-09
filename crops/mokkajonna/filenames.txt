@@ -1,0 +1,11 @@
+mokkajonna_antharapantalu.php
+mokkajonna_eruvuulu.php
+mokkajonna_kalupunivarana.php
+mokkajonna_nelalu.php
+mokkajonna_nitiyajamanyam.php
+mokkajonna_purugulu.php
+mokkajonna_rakaalu.php
+mokkajonna_tegulu.php
+mokkajonna_utpathulu.php
+mokkajonna_vithanamu.php
+vari_yamtrikarana.php

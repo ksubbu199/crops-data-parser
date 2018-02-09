@@ -1,0 +1,8 @@
+narumadi.php
+neeti_yajamanyam.php
+pradana_polam.php
+vari_eruvulu.php
+vari_natlu.php
+vari_others.php
+vari_rakalu.php
+yamtrikarana_list.php
